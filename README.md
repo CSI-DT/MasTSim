@@ -18,6 +18,8 @@ The results show the average prevalence of susceptible (healthy), infected and, 
 
 ![](https://github.com/CSI-DT/MasTSim/edit/main/output/disease_transmission.png)
 
+![plot](./output/disease_transmission.png)
+
 
 ## Participants in the CSI:DT project
 
