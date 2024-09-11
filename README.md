@@ -5,7 +5,7 @@ A computational tool to simulate direct and environmental transmission of mastit
 
 ## Content
 
-Core methods to analyse social contact data:
+Core methods to simulate mastitis-causing bacteria transmission in dairy farms:
 
 -   `scripts/Direct_transmission.R`: This tutorial simulates a direct transmission of mastitis-causing bacteria within a dairy farm following the prevalence of mastitis infection reported in [Woudstra et al. (2023). Strain diversity and infection durations of Staphylococcus spp. and Streptococcus spp. causing intramammary infections in dairy cows](https://doi.org/10.3168/JDS.2022-22942) and the social network structure reported in [Marina et al. (2023). New insight into social relationships in dairy cows and how time of birth, parity, and relatedness affect spatial interactions later in life](https://doi.org/10.3168/JDS.2023-23483) 
 
