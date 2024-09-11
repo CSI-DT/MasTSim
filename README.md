@@ -13,8 +13,10 @@ Core methods to analyse social contact data:
 
 
 ## Outputs
+
 The results show the average prevalence of susceptible (healthy), infected and, recovered animals over a simulated year. The shaded lines show the standard deviation of the simulated replicates:
-![](https://github.com/CSI-DT/MasTSim/output/disease_transmission.png)
+
+![](https://github.com/CSI-DT/MasTSim/edit/main/output/disease_transmission.png?raw=true)
 
 
 ## Participants in the CSI:DT project
